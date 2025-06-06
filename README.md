@@ -12,3 +12,5 @@ Assignment 2 of Tutedude training.
 1.   Uses a for loop to iterate over numbers from 1 to 50.
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
+
+![image](https://github.com/user-attachments/assets/1033a6c8-f8dc-450d-aee3-d4b0ab8a0d4c)
